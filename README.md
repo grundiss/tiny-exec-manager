@@ -1,6 +1,6 @@
 # tiny-exec-manager
 
-```
+```js
 var TinyExecManager = require('tiny-exec-manager');
 
 /* no more then 16 threads, each child processs runs with option {cwd: ...} */
